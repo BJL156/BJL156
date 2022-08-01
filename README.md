@@ -12,6 +12,12 @@ What I really like to program is **automation, bots, fixes to my minor inconveni
 ### Stats
 [![BJL's GitHub stats](https://github-readme-stats.vercel.app/api?username=bjl156&show_icons=true&theme=dark)](https://github.com/bjl156/github-readme-stats)
 
+### Find Me
+<p float="left">
+  <img alt="discord" src="https://user-images.githubusercontent.com/97370242/182253028-3c324b84-2b25-4822-abb4-3fb513f71b29.png" width="25">
+  <img alt="itchio" src="https://user-images.githubusercontent.com/97370242/182253381-0228e50f-bcbe-495c-b8e0-d7889706d29c.png" width="25">
+</p>
+
 ### **Languages and Tools**
 <p float="left">
   <img alt="vscode" src="https://user-images.githubusercontent.com/97370242/182233848-846c3a6c-7e46-4236-9a9e-eacb8265f202.png" width="25">
