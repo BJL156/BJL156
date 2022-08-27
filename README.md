@@ -2,7 +2,7 @@
 
 ### Goals 2022 - 2023
 - Learn Vulkan
-- Create games from scratch
+- Create more games from scratch
 - Join a another game jam
 - Learn another programing Language
 
