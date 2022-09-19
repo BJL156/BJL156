@@ -4,7 +4,7 @@
 - Learn Vulkan
 - Create more games from scratch
 - Join a another game jam
-- Learn another programing Language
+- Learn another programing language
 
 ### Stats
 [![BJL's GitHub stats](https://github-readme-stats.vercel.app/api?username=bjl156&show_icons=true&theme=dark)](https://github.com/bjl156/github-readme-stats)
