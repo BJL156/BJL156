@@ -1,10 +1,11 @@
 ### Hello, I am Brayden Leone 👋
 
-### Goals 2022 - 2023
-- Learn Vulkan
-- Create more games from scratch
-- Join a another game jam
-- Learn another programing language
+### Goals until 2025
+- Learn Vulkan                               - Going well
+- Learn More OpenGL                          - Going well
+- Create more games from scratch             - Complete
+- Join a another game jam                    - Need to join one
+- Learn another programing language          - Need to decide one
 
 ### Stats
 [![BJL's GitHub stats](https://github-readme-stats.vercel.app/api?username=bjl156&show_icons=true&theme=dark)](https://github.com/bjl156/github-readme-stats)
@@ -18,10 +19,4 @@
   <img alt="pygame" src="https://user-images.githubusercontent.com/97370242/184261628-3675be21-d5d8-4503-8bf0-24c92343da87.png" width="25">
   <img alt="opengl" src="https://user-images.githubusercontent.com/97370242/184261634-ee81a4b5-68c5-4623-b89f-832aaf7b3173.png" height="25">
   <img alt="vulkan" src="https://user-images.githubusercontent.com/97370242/184261843-0e1870ab-04bc-4644-b78e-57374ddb09e1.png" height="25">
-</p>
-
-### Find Me
-<p float="left">
-  <img alt="discord" src="https://user-images.githubusercontent.com/97370242/182253028-3c324b84-2b25-4822-abb4-3fb513f71b29.png" width="25">
-  <img alt="itchio" src="https://user-images.githubusercontent.com/97370242/182253381-0228e50f-bcbe-495c-b8e0-d7889706d29c.png" width="25">
 </p>
