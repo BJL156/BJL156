@@ -2,7 +2,7 @@
 
 ### Goals until 2025
 - Learn Vulkan                               - Going well
-- Learn More OpenGL                          - Going well
+- Learn more OpenGL                          - Going well
 - Create more games from scratch             - Complete
 - Join a another game jam                    - Need to join one
 - Learn another programing language          - Need to decide one
