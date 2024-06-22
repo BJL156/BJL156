@@ -5,7 +5,7 @@
 - Learn more OpenGL                          - Going well
 - Create more games from scratch             - Complete
 - Join a another game jam                    - Need to join one
-- Learn another programing language          - Need to decide one
+- Learn another programing language          - Learned Java due to AP CSA
 
 ### Stats
 [![BJL's GitHub stats](https://github-readme-stats.vercel.app/api?username=bjl156&show_icons=true&theme=dark)](https://github.com/bjl156/github-readme-stats)
