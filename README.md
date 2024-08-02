@@ -1,5 +1,3 @@
-### Hello, I am Brayden Leone 👋
-
 ### Goals until 2025
 - Learn Vulkan                               - Going well
 - Learn more OpenGL                          - Going well
