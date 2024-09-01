@@ -1,9 +1,8 @@
 ### Goals until 2025
-- Learn Vulkan                               - Going well
-- Learn more OpenGL                          - Going well
-- Create more games from scratch             - Complete
-- Join a another game jam                    - Need to join one
-- Learn another programing language          - Learned Java due to AP CSA
+- Learn Vulkan                               - Going well - Learning a lot about Vulkan right now.
+- Learn more OpenGL                          - Going well - Learned many advanced OpenGL concepts thanks to [https://learnopengl.com]([vrl](https://learnopengl.com))
+- Create more games from scratch             - Complete - Clicking game made.
+- Learn another programing language          - Complete Learned Java due to AP CSA + C + A bit of x86_64 Assembly
 
 ### Stats
 [![BJL's GitHub stats](https://github-readme-stats.vercel.app/api?username=bjl156&show_icons=true&theme=dark)](https://github.com/bjl156/github-readme-stats)
