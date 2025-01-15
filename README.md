@@ -1,4 +1,4 @@
-# Brayden Leone
+# Brayden Leone | BJL156 | BrayJL
 
 I am a programmer who will basically code anything that comes to mind, but my niche is graphics.
 
