@@ -16,7 +16,7 @@
   </li>
   <li><a href="https://github.com/BJL156/Skeletal-Animation">Skeletal Animation</a> - Skinned animated meshes in OpenGL written in C++ and GLSL.
     <ul>
-      <li>This project has been a long time coming and it feels so good that this system is finished. It makes scenes feel so more alive.</li>
+      <li>This project has been a long time coming and it feels so good that this system is finished. It makes scenes feel so much more alive.</li>
     </ul>
   </li>
   <li><a href="https://github.com/BJL156/School-Graphics-Engine/">BrayJL - A CodeHS Graphics Engine</a> - A software renderer written in pure C++ with no external dependencies.
