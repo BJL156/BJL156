@@ -1,10 +1,13 @@
 <h1 align="center">Hi, I'm Brayden Leone</h1>
 <h3 align="center">A programmer who exceeds in low level development.</h3>
 
+<p align="center">
+  Thanks to <a href="https://codehs.com">CodeHS</a> for writing this <a href="https://codehs.com/blog/coding-beyond-the-curriculum">blog</a> about me!
+</p>
+
 - I’m currently working on: [JordanOS.](https://github.com/BJL156/JordanOS)
 - I’m also currently learning operating system development.
 - Fun fact: The Toyota FJ Cruiser has three front windshield wipers since the windshield is too long and short for only two.
-
 
 <h3 align="center">Favorites Projects</h3>
 
