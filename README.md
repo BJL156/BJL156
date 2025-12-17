@@ -26,7 +26,7 @@
   </li>
   <li><a href="https://github.com/BJL156/School-Graphics-Engine/">BrayJL - A CodeHS Graphics Engine</a> - A software renderer written in pure C++ with no external dependencies.
     <ul>
-      <li>Written on my high school's programming website, this project was really fun to test my knowledge of OpenGL in school.</li>
+      <li>Written back in high school on the programming website they used to teach, this project was really fun to test my knowledge of OpenGL in school.</li>
     </ul>
   </li>
   <li><a href="https://github.com/BJL156/Plane-Shooter">Plane Shooter</a> - A game written from scratch in C++ and GLSL.
