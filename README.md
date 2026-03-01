@@ -7,7 +7,7 @@
 
 <h3 align="center">About Me</h3>
 
-- I’m currently working on: [JordanOS.](https://github.com/BJL156/JordanOS)
+- I’m currently working on: [Mini Raster 3D](https://github.com/BJL156/Mini-Raster-3D/tree/main).
 - I’m also currently learning operating system development.
 - Fun fact: The Toyota FJ Cruiser has three front windshield wipers since the windshield is too long and short for only two.
 
