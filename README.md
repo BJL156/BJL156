@@ -5,6 +5,14 @@
   <strong>Thanks to <a href="https://codehs.com">CodeHS</a> for writing this <a href="https://codehs.com/blog/coding-beyond-the-curriculum">blog</a> about me!</strong>
 </p>
 
+<p align="center">
+  <strong>Thanks to <a href="https://www.thesunchronicle.com/">The Sun Chronicles</a> again for including me in their <a href="https://www.thesunchronicle.com/gallery/attleboro-high-schools-class-of-2025-graduates/collection_ee827380-274e-4665-9184-d1931dedc7ad.html">article</a>.</strong>
+</p>
+
+<p align="center">
+  <strong>Thanks to <a href="https://www.thesunchronicle.com/">The Sun Chronicles</a> for including me in their <a href="www.thesunchronicle.com/communities/hundreds-turn-out-to-keep-attleboro-beautiful/article_25cc1173-d7fa-5ca4-ac54-f7875e350ad7.html">article</a>.</strong>
+</p>
+
 <h3 align="center">About Me</h3>
 
 - I’m currently working on: [Mini Raster 3D](https://github.com/BJL156/Mini-Raster-3D/tree/main).
