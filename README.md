@@ -15,8 +15,8 @@
 
 <h3 align="center">About Me</h3>
 
-- I’m currently working on: [Mini Raster 3D](https://github.com/BJL156/Mini-Raster-3D/tree/main).
-- I’m also currently learning operating system development.
+- I’m currently working on: [CPU Simulator](https://github.com/BJL156/CPU-Simulator).
+- I’m also currently learning CPU architecture by writing an assembly language for my own virtual CPU.
 - Fun fact: The Toyota FJ Cruiser has three front windshield wipers since the windshield is too long and short for only two.
 
 <h3 align="center">Favorites Projects</h3>
