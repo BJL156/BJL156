@@ -15,7 +15,7 @@
 
 <h3 align="center">About Me</h3>
 
-- I’m currently working on: [Arm Assembler](https://github.com/BJL156/ARM-Assembler).
+- I’m currently working on: [ARM Assembler](https://github.com/BJL156/ARM-Assembler).
 - I’m also currently learning CPU architecture by writing an assembly language for my own virtual CPU. Then taking it further by writing an assembler for ARM assembly.
 - Fun fact: The Toyota FJ Cruiser has three front windshield wipers since the windshield is too long and short for only two.
 
