@@ -20,6 +20,24 @@
 - Education: I'm currently studying at the University of Massachusetts Dartmouth for Computer Science with an expected graduation by 2029.
 - Fun fact: The Toyota FJ Cruiser has three front windshield wipers since the windshield is too long and short for only two.
 
+<h3 align="center">Summer of 2026</h3>
+
+<ul align="left">
+  <li><a href="https://github.com/BJL156/CPU-Simulator">CPU Simulator</a> - A assembly language interpreter for my own ISA.
+    <ul>
+      <li>The goal of this project was to understand how to write a small assembly language using my own small ISA, so I could eventually dive deeper into writing for a real RISC ISA such as AArch64.</li>
+    </ul>
+  </li>
+</ul>
+
+<ul align="left">
+  <li><a href="https://github.com/BJL156/ARM-Assembler">ARM Assembler</a> - An AArch64 assembler written in C.
+    <ul>
+      <li>The goal of this project was to build upon CPU Simulator by writing for a real ISA, so I could then take it further by writing a small subset of C that compiles into AArch64.</li>
+    </ul>
+  </li>
+</ul>
+
 <h3 align="center">Favorites Projects</h3>
 
 <ul align="left">
