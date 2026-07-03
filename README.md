@@ -19,9 +19,9 @@ Developing an AArch64 assembler that generates ELF64 executables. It will become
 
 ### AArch64 Toolchain Roadmap
 
-I'm building a complete AArch64 toolchain from scratch.
+I'm building a complete AArch64 toolchain from scratch. With the final goal being an ARM64 C compiler.
 
-Rather than jumping directly into a compiler, I'm implementing each layer independently to understand how modern compilers work.
+Instead ofjumping directly into the compiler, I'm implementing each step as on its own to understand how a full compiler toolchain works.
 - [x] **[Expression VM Calculator](https://github.com/BJL156/Expression-VM-Calculator)** — Lexer, RPN conversion, and bytecode VM for arithmetic.
 - [x] **[Custom ISA + CPU Simulator](https://github.com/BJL156/CPU-Simulator)** — Designed my own instruction set and wrote a bytecode interpreter for it.
 - [x] **[AArch64 Assembler](https://github.com/BJL156/ARM-Assembler)** *(Active project)* — Targeting an actual ISA, and outputting a real ELF64 binary.
