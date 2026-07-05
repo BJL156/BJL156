@@ -31,12 +31,12 @@ Instead ofjumping directly into the compiler, I'm implementing each step as on i
 
 ### Projects
 
-| Project | What it is |
-|---|---|
-| [Mini Raster 3D](https://github.com/BJL156/Mini-Raster-3D) | Software renderer successor to BrayJL. |
-| [Skeletal Animation](https://github.com/BJL156/Skeletal-Animation) | Skinned mesh animation in OpenGL (C++ / GLSL). |
-| [Plane Shooter](https://github.com/BJL156/Plane-Shooter) | Game built from scratch in C++ and GLSL. |
-| [BrayJL Graphics Engine](https://github.com/BJL156/School-Graphics-Engine/) | Software renderer in pure C++, written in high school on CodeHS. |
+| Project | What it is | Languages |
+|---|---|---|
+| [Mini Raster 3D](https://github.com/BJL156/Mini-Raster-3D) | Software renderer successor to BrayJL. | C++ |
+| [Skeletal Animation](https://github.com/BJL156/Skeletal-Animation) | Skinned mesh animation in OpenGL. | C++ & GLSL |
+| [Plane Shooter](https://github.com/BJL156/Plane-Shooter) | Game built from scratch. | C++ & GLSL |
+| [BrayJL Graphics Engine](https://github.com/BJL156/School-Graphics-Engine/) | Software renderer written in high school on CodeHS. |  C++ |
 
 ---
 
