@@ -18,7 +18,6 @@
 Developing an AArch64 assembler that generates ELF64 executables. It will become the backend for a future C compiler.
 
 ### AArch64 Toolchain Roadmap
-
 I'm building a complete AArch64 toolchain from scratch. The final goal is an ARM64 C compiler.
 
 Instead ofjumping directly into the compiler, I'm implementing each step as on its own to understand how a full compiler toolchain works.
@@ -30,7 +29,6 @@ Instead ofjumping directly into the compiler, I'm implementing each step as on i
 ---
 
 ### Projects
-
 | Project | What it is | Languages |
 |---|---|---|
 | [Mini Raster 3D](https://github.com/BJL156/Mini-Raster-3D) | Software renderer successor to BrayJL. | C++ |
@@ -41,7 +39,6 @@ Instead ofjumping directly into the compiler, I'm implementing each step as on i
 ---
 
 ### Stack
-
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![ARM Assembly](https://img.shields.io/badge/AArch64_ASM-red?style=flat)
