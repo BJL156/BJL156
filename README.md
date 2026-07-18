@@ -20,21 +20,21 @@ Currently in its early development stages, the goal is to write a compiler that 
 ### AArch64 Toolchain Roadmap
 I'm building a complete AArch64 toolchain from scratch. The final goal is an ARM64 C compiler.
 
-Instead ofjumping directly into the compiler, I'm implementing each step as on its own to understand how a full compiler toolchain works.
+Instead of jumping directly into the compiler, I'm implementing each step as on its own to understand how a full compiler toolchain works.
 - [x] **[Expression VM Calculator](https://github.com/BJL156/Expression-VM-Calculator)**: Lexer, RPN conversion, and bytecode VM for arithmetic.
 - [x] **[Custom ISA + CPU Simulator](https://github.com/BJL156/CPU-Simulator)**: Designed my own instruction set and wrote a bytecode interpreter for it.
 - [x] **[ARM Assembler](https://github.com/BJL156/ARM-Assembler)**: Targeting an actual ISA, and outputting a real ELF64 binary.
-- [ ] **[ARM C Compiler](https://github.com/BJL156/ARM-C-Compiler)** *(Current project)*: A C subset that compiles directy into AArch64 which can then be assembled using my assembler.
+- [ ] **[ARM C Compiler](https://github.com/BJL156/ARM-C-Compiler)** *(Current project)*: A C subset that compiles directly into AArch64 which can then be assembled using my assembler.
 
 ---
 
 ### Projects
-| Project | What it is | Languages |
+| Project | What it is | Tech |
 |---|---|---|
 | [Mini Raster 3D](https://github.com/BJL156/Mini-Raster-3D) | Software renderer successor to BrayJL. | C++ |
 | [BrayJL Graphics Engine](https://github.com/BJL156/School-Graphics-Engine) | Software renderer written in high school on CodeHS. |  C++ |
-| [Skeletal Animation](https://github.com/BJL156/Skeletal-Animation) | Skinned mesh animation in OpenGL. | C++ & GLSL |
-| [Plane Shooter](https://github.com/BJL156/Plane-Shooter) | Game built from scratch. | C++ & GLSL |
+| [Skeletal Animation](https://github.com/BJL156/Skeletal-Animation) | Skinned mesh animation in OpenGL. | C++ / GLSL |
+| [Plane Shooter](https://github.com/BJL156/Plane-Shooter) | Game built from scratch. | C++ / GLSL |
 
 ---
 
