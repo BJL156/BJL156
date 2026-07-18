@@ -13,9 +13,9 @@
 ---
 
 ### Current Project
-**[AArch64 Assembler](https://github.com/BJL156/ARM-Assembler)**
+**[ARM C Compiler](https://github.com/BJL156/ARM-C-Compiler)**
 
-Developing an AArch64 assembler that generates ELF64 executables. It will become the backend for a future C compiler.
+Currently in its early development stages, the goal is to write a compiler that handles a subset of C that will translate directly into AArch64 source code. The ARM code can then be passed into the ARM assembler from the previous project to generate a runnable ELF64 binary.
 
 ### AArch64 Toolchain Roadmap
 I'm building a complete AArch64 toolchain from scratch. The final goal is an ARM64 C compiler.
@@ -23,8 +23,8 @@ I'm building a complete AArch64 toolchain from scratch. The final goal is an ARM
 Instead ofjumping directly into the compiler, I'm implementing each step as on its own to understand how a full compiler toolchain works.
 - [x] **[Expression VM Calculator](https://github.com/BJL156/Expression-VM-Calculator)**: Lexer, RPN conversion, and bytecode VM for arithmetic.
 - [x] **[Custom ISA + CPU Simulator](https://github.com/BJL156/CPU-Simulator)**: Designed my own instruction set and wrote a bytecode interpreter for it.
-- [x] **[AArch64 Assembler](https://github.com/BJL156/ARM-Assembler)** *(Current project)*: Targeting an actual ISA, and outputting a real ELF64 binary.
-- [ ] **Small C AArch64 Compiler**: A C subset that compiles directy into AArch64 which can then be assembled using my assembler.
+- [x] **[ARM Assembler](https://github.com/BJL156/ARM-Assembler)**: Targeting an actual ISA, and outputting a real ELF64 binary.
+- [ ] **[ARM C Compiler](https://github.com/BJL156/ARM-C-Compiler)** *(Current project)*: A C subset that compiles directy into AArch64 which can then be assembled using my assembler.
 
 ---
 
