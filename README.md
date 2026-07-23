@@ -9,6 +9,10 @@
   <a href="https://www.thesunchronicle.com/communities/hundreds-turn-out-to-keep-attleboro-beautiful/article_25cc1173-d7fa-5ca4-ac54-f7875e350ad7.html">Sun Chronicle</a> ·
   <a href="https://www.thesunchronicle.com/gallery/attleboro-high-schools-class-of-2025-graduates/collection_ee827380-274e-4665-9184-d1931dedc7ad.html">Class of 2025</a>
 </p>
+<p align="center">
+  <a href="mailto:brayden.j.leone@outlook.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/brayden-leone/">LinkedIn</a>
+</p>
 
 ---
 
