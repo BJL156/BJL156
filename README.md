@@ -1,7 +1,8 @@
 <h1 align="center">Brayden Leone</h1>
 <p align="center">
   UMass Dartmouth CS '29<br>
-  Systems programmer interested in compilers, computer architecture, and graphics.
+  Building compilers and low-level software in C.
+  Interested in computer architecture, operating systems, and graphics.
 </p>
 
 <p align="center">
@@ -42,7 +43,7 @@ Instead of jumping directly into the compiler, I'm implementing each step as on 
 
 ---
 
-### Stack
+### Technologies
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![ARM Assembly](https://img.shields.io/badge/AArch64_ASM-red?style=flat)
