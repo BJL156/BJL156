@@ -30,7 +30,7 @@ I'm building a compiler for a subset of C that generates AArch64 assembly. The g
 ### AArch64 Toolchain Roadmap
 Rather than relying on an existing compiler infrastructure, I'm implementing each stage of the compilation pipeline myself to gain a deeper understanding of how modern toolchains work.
 - [x] **[Expression VM Calculator](https://github.com/BJL156/Expression-VM-Calculator)**: Lexer, parser, Reverse Polish conversion, bytecode generation, and virtual machine execution.
-- [x] **[Custom ISA + CPU Simulator](https://github.com/BJL156/CPU-Simulator)**: Designed a custom instruction set and implemented a CPU simulator capable of executing its bytecode.
+- [x] **[Custom ISA + CPU Simulator](https://github.com/BJL156/CPU-Simulator)**: Designed a custom instruction set and CPU bytecode simulator.
 - [x] **[ARM Assembler](https://github.com/BJL156/ARM-Assembler)**: Converts AArch64 assembly into ELF64 executables targeting a real instruction set architecture.
 - [ ] **[ARM C Compiler](https://github.com/BJL156/ARM-C-Compiler)** *(Current project)*: Compiling a subset of C directly into AArch64 assembly for use with my assembler.
 
