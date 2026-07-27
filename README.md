@@ -1,23 +1,28 @@
 <h1 align="center">Brayden Leone</h1>
+
 <p align="center">
-  Computer Science @ UMass Dartmouth ('29)<br>
-  Building compilers, assemblers, and low-level systems software in C.<br>
-  Interested in compiler design, computer architecture, operating systems, and graphics programming.
+  Building an AArch64 compiler toolchain from scratch in C.
 </p>
 
 <p align="center">
-  <a href="https://codehs.com/blog/coding-beyond-the-curriculum">Featured on CodeHS</a> ·
-  <a href="https://www.thesunchronicle.com/communities/hundreds-turn-out-to-keep-attleboro-beautiful/article_25cc1173-d7fa-5ca4-ac54-f7875e350ad7.html">Sun Chronicle</a> ·
-  <a href="https://www.thesunchronicle.com/gallery/attleboro-high-schools-class-of-2025-graduates/collection_ee827380-274e-4665-9184-d1931dedc7ad.html">Class of 2025</a>
+  Computer Science @ UMass Dartmouth ('29)<br>
+  Interested in compiler design, systems programming, computer architecture, operating systems, and graphics programming.
 </p>
+
 <p align="center">
-  <a href="mailto:brayden.j.leone@outlook.com">Email</a> ·
+  <a href="https://github.com/BJL156/ARM-C-Compiler">Compiler</a> •
+  <a href="https://github.com/BJL156/ARM-Assembler">Assembler</a> •
+  <a href="mailto:brayden.j.leone@outlook.com">Email</a> •
   <a href="https://www.linkedin.com/in/brayden-leone/">LinkedIn</a>
+</p>
+
+<p align="center">
+  <a href="https://codehs.com/blog/coding-beyond-the-curriculum">Featured on CodeHS</a>
 </p>
 
 ---
 
-### Current Project
+### Featured Project
 **[ARM C Compiler](https://github.com/BJL156/ARM-C-Compiler)**
 
 I'm building a compiler for a subset of C that generates AArch64 assembly. The generated assembly is assembled by my own ARM assembler, producing runnable ELF64 executables. This is the final stage of a toolchain that I've been building from the ground up to understand every step from source code all the way to machine code.
