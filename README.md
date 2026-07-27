@@ -1,8 +1,8 @@
 <h1 align="center">Brayden Leone</h1>
 <p align="center">
-  UMass Dartmouth CS '29<br>
-  Building compilers and low-level software in C.
-  Interested in computer architecture, operating systems, and graphics.
+  Computer Science @ UMass Dartmouth ('29)<br>
+  Building compilers, assemblers, and low-level systems software in C.<br>
+  Interested in compiler design, computer architecture, operating systems, and graphics programming.
 </p>
 
 <p align="center">
@@ -20,26 +20,24 @@
 ### Current Project
 **[ARM C Compiler](https://github.com/BJL156/ARM-C-Compiler)**
 
-Currently in its early development stages, the goal is to write a compiler that handles a subset of C that will translate directly into AArch64 source code. The ARM code can then be passed into the ARM assembler from the previous project to generate a runnable ELF64 binary.
+I'm building a compiler for a subset of C that generates AArch64 assembly. The generated assembly is assembled by my own ARM assembler, producing runnable ELF64 executables. This is the final stage of a toolchain that I've been building from the ground up to understand every step from source code all the way to machine code.
 
 ### AArch64 Toolchain Roadmap
-I'm building a complete AArch64 toolchain from scratch. The final goal is an ARM64 C compiler.
-
-Instead of jumping directly into the compiler, I'm implementing each step as on its own to understand how a full compiler toolchain works.
-- [x] **[Expression VM Calculator](https://github.com/BJL156/Expression-VM-Calculator)**: Lexer, RPN conversion, and bytecode VM for arithmetic.
-- [x] **[Custom ISA + CPU Simulator](https://github.com/BJL156/CPU-Simulator)**: Designed my own instruction set and wrote a bytecode interpreter for it.
-- [x] **[ARM Assembler](https://github.com/BJL156/ARM-Assembler)**: Targeting an actual ISA, and outputting a real ELF64 binary.
-- [ ] **[ARM C Compiler](https://github.com/BJL156/ARM-C-Compiler)** *(Current project)*: A C subset that compiles directly into AArch64 which can then be assembled using my assembler.
+Rather than relying on an existing compiler infrastructure, I'm implementing each stage of the compilation pipeline myself to gain a deeper understanding of how modern toolchains work.
+- [x] **[Expression VM Calculator](https://github.com/BJL156/Expression-VM-Calculator)**: Lexer, parser, Reverse Polish conversion, bytecode generation, and virtual machine execution.
+- [x] **[Custom ISA + CPU Simulator](https://github.com/BJL156/CPU-Simulator)**: Designed a custom instruction set and implemented a CPU simulator capable of executing its bytecode.
+- [x] **[ARM Assembler](https://github.com/BJL156/ARM-Assembler)**: Converts AArch64 assembly into ELF64 executables targeting a real instruction set architecture.
+- [ ] **[ARM C Compiler](https://github.com/BJL156/ARM-C-Compiler)** *(Current project)*: Compiling a subset of C directly into AArch64 assembly for use with my assembler.
 
 ---
 
 ### Projects
 | Project | What it is | Tech |
 |---|---|---|
-| [Mini Raster 3D](https://github.com/BJL156/Mini-Raster-3D) | Software renderer successor to BrayJL. | C++ |
-| [BrayJL Graphics Engine](https://github.com/BJL156/School-Graphics-Engine) | Software renderer written in high school on CodeHS. |  C++ |
-| [Skeletal Animation](https://github.com/BJL156/Skeletal-Animation) | Skinned mesh animation in OpenGL. | C++ / GLSL |
-| [Plane Shooter](https://github.com/BJL156/Plane-Shooter) | Game built from scratch. | C++ / GLSL |
+| [Mini Raster 3D](https://github.com/BJL156/Mini-Raster-3D) | CPU-based software rasterizer with a custom rendering pipeline. | C++ |
+| [BrayJL Graphics Engine](https://github.com/BJL156/School-Graphics-Engine) | Software renderer originally developed in high school, laying the groundwork for later graphics projects. |  C++ |
+| [Skeletal Animation](https://github.com/BJL156/Skeletal-Animation) | Skeletal animation system with GPU skinning using OpenGL. | C++ / GLSL |
+| [Plane Shooter](https://github.com/BJL156/Plane-Shooter) | Game built from scratch with custom rendering and gameplay systems. | C++ / GLSL |
 
 ---
 
