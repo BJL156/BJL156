@@ -22,10 +22,10 @@
 
 ---
 
-### Featured Project
+### Featured Project (Current)
 **[ARM C Compiler](https://github.com/BJL156/ARM-C-Compiler)**
 
-I'm building a compiler for a subset of C that generates AArch64 assembly. The generated assembly is assembled by my own ARM assembler, producing runnable ELF64 executables. This is the final stage of a toolchain that I've been building from the ground up to understand every step from source code all the way to machine code.
+I'm currently building a compiler for a subset of C that generates AArch64 assembly. The generated assembly is assembled by my own ARM assembler, producing runnable ELF64 executables. This is the final stage of a toolchain that I've been building from the ground up to understand every step from source code all the way to machine code.
 
 ### AArch64 Toolchain Roadmap
 Rather than relying on an existing compiler infrastructure, I'm implementing each stage of the compilation pipeline myself to gain a deeper understanding of how modern toolchains work.
@@ -36,7 +36,7 @@ Rather than relying on an existing compiler infrastructure, I'm implementing eac
 
 ---
 
-### Projects
+### Other Projects
 | Project | What it is | Tech |
 |---|---|---|
 | [Mini Raster 3D](https://github.com/BJL156/Mini-Raster-3D) | CPU-based software rasterizer with a custom rendering pipeline. | C++ |
