@@ -53,11 +53,11 @@ Rather than relying on an existing compiler infrastructure, I'm implementing eac
 
 ### Technologies
 <p>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/AArch64_ASM-red?style=flat">
-  <img src="https://img.shields.io/badge/GLSL-5586A4?style=flat">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
+  <img style="display:inline" src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white">
+  <img style="display:inline" src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white">
+  <img style="display:inline" src="https://img.shields.io/badge/AArch64_ASM-red?style=flat">
+  <img style="display:inline" src="https://img.shields.io/badge/GLSL-5586A4?style=flat">
+  <img style="display:inline" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
 </p>
 
 ---
