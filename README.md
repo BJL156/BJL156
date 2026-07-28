@@ -41,8 +41,8 @@ Rather than relying on an existing compiler infrastructure, I'm implementing eac
 
 ---
 
-### Other Projects
-| Project | What it is | Tech |
+### Projects
+| Project | Description | Technologies |
 |---|---|---|
 | [Mini Raster 3D](https://github.com/BJL156/Mini-Raster-3D) | CPU-based software rasterizer with a custom rendering pipeline. | C++ |
 | [BrayJL Graphics Engine](https://github.com/BJL156/School-Graphics-Engine) | Software renderer originally developed in high school, laying the groundwork for later graphics projects. |  C++ |
