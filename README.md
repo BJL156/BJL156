@@ -1,7 +1,7 @@
 <h1 align="center">Brayden Leone</h1>
 
 <p align="center">
-  Building an AArch64 compiler toolchain from scratch in C.
+  I'm building an entire AArch64 compiler toolchain from scratch to understand every stage between C source code and executable machine code.
 </p>
 
 <p align="center">
