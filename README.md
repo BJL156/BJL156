@@ -1,7 +1,7 @@
 <h1 align="center">Brayden Leone</h1>
 
 <p align="center">
-  I'm building an entire AArch64 compiler toolchain from scratch to understand every stage all the way from C source code down to pure machine code.
+  Building an AArch64 compiler toolchain from scratch, from C source code to executable machine code.
 </p>
 
 <p align="center">
@@ -25,10 +25,10 @@
 ### Featured Project (Current)
 **[ARM C Compiler](https://github.com/BJL156/ARM-C-Compiler)**
 
-I'm currently building a compiler for a subset of C that generates AArch64 assembly. The generated assembly can then be assembled using my own [ARM Assembler](https://github.com/BJL156/ARM-Assembler), producing a runnable ELF64 executable. This is the final stage of an AArch64 toolchain that I've been building from the ground up.
+I'm currently building a compiler for a subset of C that lowers source code to AArch64 assembly. The assembly is then processed by my custom [ARM assembler](https://github.com/BJL156/ARM-Assembler) into a runnable ELF64 executable.
 
 ### AArch64 Toolchain Roadmap
-Rather than relying on an existing compiler infrastructure, I'm implementing each stage of the compilation pipeline myself from scratch to gain a deeper understanding of how these toolchains work.
+I'm implementing each stage of the toolchain myself rather than relying on existing compiler infrastructure, with the goal of understanding the complete path from source code to executable.
 
 <p align="center">
   <img src="toolchain.svg" width="800">
@@ -51,7 +51,7 @@ Rather than relying on an existing compiler infrastructure, I'm implementing eac
 
 ---
 
-### Technologies
+### Tech Stack
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white">
