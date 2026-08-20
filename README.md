@@ -37,7 +37,7 @@ I'm implementing each stage of the toolchain myself rather than relying on exist
 - [x] **[Expression VM Calculator](https://github.com/BJL156/Expression-VM-Calculator)**: Lexer, parser, Reverse Polish conversion, bytecode generation, and virtual machine executor.
 - [x] **[Custom ISA + CPU Simulator](https://github.com/BJL156/CPU-Simulator)**: Designed a custom instruction set (ISA) and CPU bytecode simulator for it.
 - [x] **[ARM Assembler](https://github.com/BJL156/ARM-Assembler)**: Converts AArch64 assembly directly into ELF64 executables.
-- [ ] **[ARM C Compiler](https://github.com/BJL156/ARM-C-Compiler)** *(Current project)*: Converts a subset of C into AArch64 assembly for use with my assembler.
+- [x] **[ARM C Compiler](https://github.com/BJL156/ARM-C-Compiler)** *(Current project)*: Converts a subset of C into AArch64 assembly for use with my assembler.
 
 ---
 
