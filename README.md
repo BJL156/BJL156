@@ -62,4 +62,4 @@ I'm implementing each stage of the toolchain myself rather than relying on exist
 
 ---
 
-> Fun fact: The Toyota FJ Cruiser has three windshield wipers because the windshield is too wide and short for just two.
+> Fun fact: The Toyota FJ Cruiser has three windshield wipers because the windshield is too short and wide for just two.
