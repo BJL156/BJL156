@@ -1,12 +1,12 @@
 <h1 align="center">Brayden Leone</h1>
 
 <p align="center">
-  Building an AArch64 compiler toolchain from scratch, from C source code to executable machine code.
+  Computer Science @ UMass Dartmouth ('29)<br>
+  Interested in compiler design, systems programming, computer architecture, operating systems, and graphics programming.
 </p>
 
 <p align="center">
-  Computer Science @ UMass Dartmouth ('29)<br>
-  Interested in compiler design, systems programming, computer architecture, operating systems, and graphics programming.
+  Building an AArch64 compiler toolchain from scratch, from C source code to executable machine code.
 </p>
 
 <p align="center">
