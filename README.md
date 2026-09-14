@@ -28,7 +28,7 @@
 I'm currently building a compiler for a subset of C that lowers source code to AArch64 assembly. The produced assembly can then passed to my custom [ARM assembler](https://github.com/BJL156/ARM-Assembler) to generate a runnable ELF64 that can be executed on real hardware or through an emulator such as QEMU.
 
 ### AArch64 Toolchain Roadmap
-I'm implementing each stage of the toolchain myself rather than relying on existing compiler toolchain, with the goal of understanding the entire path from source code to a final executable.
+I'm implementing each stage of the toolchain myself rather than relying on existing compiler toolchain (such as GNU), with the goal of understanding the entire path from source code to a final executable.
 
 <p align="center">
   <img src="toolchain.svg" width="800">
