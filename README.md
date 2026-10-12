@@ -22,7 +22,7 @@
 
 ---
 
-### Featured Project (Current)
+### Currently Building
 **[ARM Operating System](https://github.com/BJL156/ARM-Operating-System)**
 
 I'm building an operating system for AArch64 from the ground up, exploring kernel development, low-level systems programming, and computer architecture.
