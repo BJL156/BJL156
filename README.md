@@ -23,9 +23,9 @@
 ---
 
 ### Featured Project (Current)
-**[ARM C Compiler](https://github.com/BJL156/ARM-C-Compiler)**
+**[ARM Operating System](https://github.com/BJL156/ARM-Operating-System)**
 
-I'm currently building a compiler for a subset of C that lowers source code to AArch64 assembly. The produced assembly can then passed to my custom [ARM assembler](https://github.com/BJL156/ARM-Assembler) to generate a runnable ELF64 that can be executed on real hardware or through an emulator such as QEMU.
+I'm building an operating system for AArch64 from the ground up, exploring kernel development, low-level systems programming, and computer architecture.
 
 ### AArch64 Toolchain Roadmap
 I'm implementing each stage of the toolchain myself rather than relying on existing compiler toolchain (such as GNU), with the goal of understanding the entire path from source code to a final executable.
@@ -37,7 +37,7 @@ I'm implementing each stage of the toolchain myself rather than relying on exist
 - [x] **[Expression VM Calculator](https://github.com/BJL156/Expression-VM-Calculator)**: Lexer, Reverse Polish conversion, bytecode generation, and virtual machine executor.
 - [x] **[Custom ISA + CPU Simulator](https://github.com/BJL156/CPU-Simulator)**: Designed a custom instruction set (ISA) and CPU bytecode simulator for it.
 - [x] **[ARM Assembler](https://github.com/BJL156/ARM-Assembler)**: Converts AArch64 assembly directly into ELF64 executables.
-- [x] **[ARM C Compiler](https://github.com/BJL156/ARM-C-Compiler)** *(Current project)*: Converts a subset of C into AArch64 assembly for use with my assembler.
+- [x] **[ARM C Compiler](https://github.com/BJL156/ARM-C-Compiler)**: Converts a subset of C into AArch64 assembly for use with my assembler.
 
 ---
 
