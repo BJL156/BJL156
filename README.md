@@ -25,7 +25,7 @@
 ### Currently Building
 **[ARM Operating System](https://github.com/BJL156/ARM-Operating-System)**
 
-I'm building an operating system for AArch64 from the ground up, exploring kernel development, low-level systems programming, and computer architecture.
+I'm building an operating system for AArch64 from the ground up, exploring kernel development, low-level systems programming, and computer architecture. This is in continuation of my toolchain that will serve to further deepen my knowledge on AArch64.
 
 ### AArch64 Toolchain Roadmap
 I'm implementing each stage of the toolchain myself rather than relying on existing compiler toolchain (such as GNU), with the goal of understanding the entire path from source code to a final executable.
