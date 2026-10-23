@@ -10,8 +10,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/BJL156/ARM-C-Compiler">Compiler</a> •
-  <a href="https://github.com/BJL156/ARM-Assembler">Assembler</a> •
   <a href="mailto:brayden.j.leone@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/brayden-leone/">LinkedIn</a>
 </p>
