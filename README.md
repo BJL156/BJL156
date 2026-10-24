@@ -36,7 +36,7 @@ I'm implementing each stage of the toolchain myself rather than relying on exist
 - [x] **[Custom ISA + CPU Simulator](https://github.com/BJL156/CPU-Simulator)**: Designed a custom instruction set (ISA) and CPU bytecode simulator for it.
 - [x] **[ARM Assembler](https://github.com/BJL156/ARM-Assembler)**: Converts AArch64 assembly directly into ELF64 executables.
 - [x] **[ARM C Compiler](https://github.com/BJL156/ARM-C-Compiler)**: Converts a subset of C into AArch64 assembly for use with my assembler.
-
+- [ ] **[ARM Operating System](https://github.com/BJL156/ARM-Operating-System)** *Current Project*: Compile code using the toolchain on a custom-built operating system.
 ---
 
 ### Projects
