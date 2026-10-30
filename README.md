@@ -37,7 +37,7 @@ I'm implementing each stage of the toolchain myself rather than relying on exist
 
 ---
 
-### Software Rasterizer & Graphics Engine
+### Software Rasterizer
 **[Mini Raster 3D](https://github.com/BJL156/Mini-Raster-3D)**
 
 Built a 3D software rasterizer from scratch in C++, implementing core graphics pipeline operations on the CPU without relying on graphics APIs for rasterization.
