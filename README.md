@@ -34,6 +34,7 @@ I'm implementing each stage of the toolchain myself rather than relying on exist
 - [x] **[ARM Assembler](https://github.com/BJL156/ARM-Assembler)**: Converts AArch64 assembly directly into ELF64 executables.
 - [x] **[ARM C Compiler](https://github.com/BJL156/ARM-C-Compiler)**: Converts a subset of C into AArch64 assembly for use with my assembler.
 - [ ] **[ARM Operating System](https://github.com/BJL156/ARM-Operating-System)** (*Current Project*): Compile code using the toolchain on a custom-built operating system.
+
 ---
 
 ### Software Rasterizer & Graphics Engine
@@ -45,6 +46,8 @@ Built a 3D software rasterizer from scratch in C++, implementing core graphics p
 - Developed 3D transformation pipelines and texture-mapped mesh rendering.
 - Created a custom vector and matrix mathematics library for 3D graphics calculations.
 - Built a rendering loop for continuous frame generation and display.
+
+---
 
 ### Tech Stack
 <p>
