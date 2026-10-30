@@ -6,15 +6,12 @@
 </p>
 
 <p align="center">
-  Building an AArch64 compiler toolchain from scratch, from C source code to executable machine code.
+  Building a custom AArch64 toolchain, including a C compiler, assembler, CPU simulator, and virtual machine.
 </p>
 
 <p align="center">
   <a href="mailto:brayden.j.leone@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/brayden-leone/">LinkedIn</a>
-</p>
-
-<p align="center">
   <a href="https://codehs.com/blog/coding-beyond-the-curriculum">Featured on CodeHS</a>
 </p>
 
@@ -23,7 +20,7 @@
 ### Currently Building
 **[ARM Operating System](https://github.com/BJL156/ARM-Operating-System)**
 
-I'm building an operating system for AArch64 from the ground up, exploring kernel development, low-level systems programming, and computer architecture. This is in continuation of my toolchain that will serve to further deepen my knowledge on AArch64.
+Developing an operating system from scratch for AArch64, with boot support, exception handling, interrupt management, and memory management. The long-term goal is to run programs compiled with my custom C compiler and assembler.
 
 ### AArch64 Toolchain Roadmap
 I'm implementing each stage of the toolchain myself rather than relying on existing compiler toolchain (such as GNU), with the goal of understanding the entire path from source code to a final executable.
@@ -39,15 +36,15 @@ I'm implementing each stage of the toolchain myself rather than relying on exist
 - [ ] **[ARM Operating System](https://github.com/BJL156/ARM-Operating-System)** (*Current Project*): Compile code using the toolchain on a custom-built operating system.
 ---
 
-### Projects
-| Project | Description | Technologies |
-|---|---|---|
-| [Mini Raster 3D](https://github.com/BJL156/Mini-Raster-3D) | CPU-based software rasterizer with a custom rendering pipeline. | C++ |
-| [BrayJL Graphics Engine](https://github.com/BJL156/School-Graphics-Engine) | Software renderer originally developed in high school, laying the groundwork for later graphics projects. |  C++ |
-| [Skeletal Animation](https://github.com/BJL156/Skeletal-Animation) | Skeletal animation system with GPU skinning using OpenGL. | C++ / GLSL |
-| [Plane Shooter](https://github.com/BJL156/Plane-Shooter) | Game built from scratch with custom rendering and gameplay systems. | C++ / GLSL |
+### Software Rasterizer & Graphics Engine
+**[Mini Raster 3D](https://github.com/BJL156/Mini-Raster-3D)**
 
----
+Built a 3D software rasterizer from scratch in C++, implementing core graphics pipeline operations on the CPU without relying on graphics APIs for rasterization.
+
+- Implemented triangle rasterization, depth buffering, and perspective-correct interpolation.
+- Developed 3D transformation pipelines and texture-mapped mesh rendering.
+- Created a custom vector and matrix mathematics library for 3D graphics calculations.
+- Built a rendering loop for continuous frame generation and display.
 
 ### Tech Stack
 <p>
