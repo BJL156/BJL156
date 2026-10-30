@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="mailto:brayden.j.leone@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/brayden-leone/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/brayden-leone/">LinkedIn</a> •
   <a href="https://codehs.com/blog/coding-beyond-the-curriculum">Featured on CodeHS</a>
 </p>
 
